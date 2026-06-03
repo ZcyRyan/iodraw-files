@@ -138,6 +138,9 @@
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-50" value="内容を参照して、(例 Refer to Audit Log.docx 3.1.1)、差分部分は製品別の機能仕様書に記載する" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;strokeWidth=1;align=left;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=#3333FF;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="770" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6l_LS6jV1E9XIjBNLf4a-53" value="開発者見る" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;strokeWidth=1;align=left;verticalAlign=middle;fontFamily=Verdana;fontSize=12;labelBackgroundColor=none;fillColor=#fff2cc;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="910" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
