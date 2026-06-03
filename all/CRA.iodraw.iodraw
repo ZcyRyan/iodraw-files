@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="62893188c0fa7362-1" value="CRA共通仕様書 (CRA(a), CRA(b)..., CRA(m))&lt;div&gt;一本で満足する必要な仕様で纏める&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-1" value="&lt;h3&gt;&lt;b&gt;CRA共通仕様書 (CRA(a), CRA(b)..., CRA(m))&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;一本で満足する必要な仕様で纏める&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="650" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-2" value="&lt;h1&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;verticalAlign=top;" parent="1" vertex="1">
