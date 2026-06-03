@@ -7,7 +7,7 @@
         <mxCell id="62893188c0fa7362-1" value="&lt;h3&gt;&lt;b&gt;CRA共通仕様書 (CRA(a), CRA(b)..., CRA(m))&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;一本で満足する必要な仕様で纏める&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="650" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-2" value="&lt;h3&gt;機能別の仕様書&lt;/h3&gt;&lt;div&gt;Audit Log.docx&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Web Page.docx&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-2" value="&lt;h3&gt;機能別の仕様書&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="170" y="170" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
         </mxCell>
         <UserObject label="&#xa;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Audit Log.docx&lt;/div&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" id="6l_LS6jV1E9XIjBNLf4a-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
-            <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+            <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;text-align: left;&quot;&gt;User Account Management.docx&lt;/span&gt;" id="6l_LS6jV1E9XIjBNLf4a-9">
@@ -70,7 +70,7 @@
             <mxGeometry x="500" y="210" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;text-align: left;&quot;&gt;User Account Management.docx&lt;/span&gt;" id="6l_LS6jV1E9XIjBNLf4a-10">
+        <UserObject label="&lt;span style=&quot;text-align: left;&quot;&gt;Web Page.docx&lt;/span&gt;" id="6l_LS6jV1E9XIjBNLf4a-10">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
             <mxGeometry x="500" y="270" width="140" height="60" as="geometry" />
           </mxCell>
