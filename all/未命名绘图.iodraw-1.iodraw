@@ -7,13 +7,11 @@
         <mxCell id="62893188c0fa7362-1" value="CRA共通仕様書 (CRA(a), CRA(b)..., CRA(m))&lt;div&gt;一本で満足する必要な仕様で纏める&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-2" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="6l_LS6jV1E9XIjBNLf4a-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-5" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2" edge="1">
-          <mxGeometry x="-0.359" y="-11" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="62893188c0fa7362-2" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-8" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
