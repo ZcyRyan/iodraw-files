@@ -7,8 +7,8 @@
         <mxCell id="62893188c0fa7362-1" value="CRA共通仕様書 (CRA(a), CRA(b)..., CRA(m))&lt;div&gt;一本で満足する必要な仕様で纏める&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-2" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="170" y="170" width="470" height="90" as="geometry" />
+        <mxCell id="62893188c0fa7362-2" value="&lt;h1&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="170" y="170" width="480" height="160" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="395" width="120" height="60" as="geometry" />
