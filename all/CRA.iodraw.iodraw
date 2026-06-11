@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-13" value="&lt;h3&gt;&lt;font color=&quot;#0000ff&quot;&gt;Product-specific external specifications&lt;/font&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;/font&gt;(product-dependent specifications derived from Function-level guidelines)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=default;strokeWidth=1;align=left;verticalAlign=top;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="70" y="420" width="940" height="327" as="geometry" />
+          <mxGeometry x="70" y="413" width="940" height="327" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-21" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="100" y="479" width="190" height="210" as="geometry" />
+          <mxGeometry x="100" y="472" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-14" value="&lt;h4&gt;Audit Log&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#82b366;strokeWidth=1;align=left;verticalAlign=top;fontFamily=Verdana;fontSize=12;labelBackgroundColor=none;fillColor=#d5e8d4;" parent="6l_LS6jV1E9XIjBNLf4a-21" vertex="1">
           <mxGeometry width="190" height="210" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="60" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-22" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="320" y="479" width="190" height="210" as="geometry" />
+          <mxGeometry x="320" y="472" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-23" value="&lt;h4&gt;User Account Management&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#9673a6;strokeWidth=1;align=left;verticalAlign=top;fontFamily=Verdana;fontSize=12;labelBackgroundColor=none;fillColor=#e1d5e7;" parent="6l_LS6jV1E9XIjBNLf4a-22" vertex="1">
           <mxGeometry width="190" height="210" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="60" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="540" y="479" width="190" height="210" as="geometry" />
+          <mxGeometry x="540" y="500" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-31" value="&lt;h4&gt;Web Page&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;strokeWidth=1;align=left;verticalAlign=top;fontFamily=Verdana;fontSize=12;labelBackgroundColor=none;fillColor=#f8cecc;" parent="6l_LS6jV1E9XIjBNLf4a-30" vertex="1">
           <mxGeometry width="190" height="210" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry x="60" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-37" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="770" y="479" width="190" height="210" as="geometry" />
+          <mxGeometry x="770" y="500" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="6l_LS6jV1E9XIjBNLf4a-38" value="&lt;h4&gt;...&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#6c8ebf;strokeWidth=1;align=left;verticalAlign=top;fontFamily=Verdana;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" parent="6l_LS6jV1E9XIjBNLf4a-37" vertex="1">
           <mxGeometry width="190" height="210" as="geometry" />
